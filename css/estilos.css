@@ -5,7 +5,15 @@
  margin-right: 10px;
 }
 
+#menu a{
+  color: white
 
+}
+
+#menu a:hover{
+  color: red;
+  
+}
 
 
 
