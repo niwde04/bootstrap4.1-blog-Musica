@@ -1,7 +1,6 @@
 
 .img-social{
  font-size:48px;
- color:black;
  margin-right: 10px;
 }
 
@@ -25,4 +24,20 @@ nav{
 
 #header-color{
   background-color: #343A40;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
 }
