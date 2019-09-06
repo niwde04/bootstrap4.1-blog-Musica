@@ -1,8 +1,13 @@
 
 .img-social{
- font-size:48px;
- margin-right: 10px;
+ height: 39px;
+ margin-right: 2px;
+
 }
+.img-social:hover{
+  filter : brightness(150%)
+}
+
 
 #menu a{
   color: white;
@@ -41,3 +46,4 @@ nav{
   pointer-events: none;
   color: #aaa;
 }
+
